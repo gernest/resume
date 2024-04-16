@@ -10,7 +10,7 @@ while focusing on simplicity, testing and standards based design.
 
 ## Professional Experience
 
-### [VinceAnalytics](https://www.vinceanalytics.com/): Solo Founder, REMOTE 01/2024-...
+### [VinceAnalytics](https://www.vinceanalytics.com/): Solo Founder, REMOTE 01/2023-...
 API first,distributed alternative to Google Analytics
 
 - Design and Implementation
