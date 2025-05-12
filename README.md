@@ -1,5 +1,5 @@
 # Geofrey Ernest
-Contact <geofreyernest@live.co>
+Contact <geofreyernest@live.com>
 
 ## Summary
 I am a software engineer with 10+ years experience in
